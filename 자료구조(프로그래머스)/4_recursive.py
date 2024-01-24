@@ -48,14 +48,19 @@ def solution_iter(n):
 
 
 # ------- #
-print(solution_recur(int(input('x: '))))
+# print(solution_recur(int(input('x: '))))
+print(solution_iter(int(input('x: '))))
 
 
 '''
-적용:
+적용
+- 재귀/반복 알고리즘 개념에 대해 어렴풋이 이해가 됐다.
+- 중복되는 부분을 줄이고, 코드를 간결하게 쓰는 연습이 필요하다.
 
 알게 된 아이디어
 - n=0일 때 0, n=1일 때 1 => n<=1일 때 n으로 통합될 수 있다.
 - 한 줄 if문 요약하기
+
+
 
 '''
