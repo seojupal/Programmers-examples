@@ -61,6 +61,4 @@ print(solution_iter(int(input('x: '))))
 - n=0일 때 0, n=1일 때 1 => n<=1일 때 n으로 통합될 수 있다.
 - 한 줄 if문 요약하기
 
-
-
 '''
